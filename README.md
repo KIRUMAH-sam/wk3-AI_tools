@@ -36,6 +36,11 @@ These tools were later integrated into a **Streamlit App** for deployment and vi
 ## Deployment
 The model was intergrated into a streamlit app for deployment and the live link is provided here: https://kirumah-sam-wk3-ai-tools-app-7f9hkn.streamlit.app/
 
-###LMS Article
+## LMS Article
 The Article contains answers to the theoretical section of this assignment, showing in detail my understanding of the AI tools. It also analyzes the ethical optimization of the model
 we created and gives in detail what is required and what is not.
+
+## How to Run:
+git clone https://github.com/KIRUMAH-sam/wk3-AI_tools.git
+cd wk3-AI_tools
+**Ensure you have all the required libraries and packages as outlined in the file requirements.txt **
