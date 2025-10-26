@@ -4,6 +4,8 @@ numpy
 spacy
 pandas
 matplotlib
-sklearn
+scikit-learn
 seaborn
 pillow
+altair
+plotly
